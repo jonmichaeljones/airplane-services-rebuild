@@ -1,0 +1,2458 @@
+
+db.climbTables.save({
+	Weight:18000, 
+	VFRI_5:116, 
+	VFRI_10:110, 
+	VFRI15:107, 
+	VCLMB:130
+})
+
+db.climbTables.save({
+	Weight:18000, 
+	VFRI_5:116, 
+	VFRI_10:110, 
+	VFRI15:107, 
+	VCLMB:130
+})
+
+db.climbTables.save({
+	Weight:20000, 
+	VFRI_5:120, 
+	VFRI_10:112, 
+	VFRI15:109, 
+	VCLMB:131
+})
+	
+db.climbTables.save({
+	Weight:22000, 
+	VFRI_5:126, 
+	VFRI_10:118, 
+	VFRI15:115, 
+	VCLMB:137
+})
+
+db.climbTables.save({	
+	Weight:24000, 
+	VFRI_5:132, 
+	VFRI_10:123, 
+	VFRI15:120, 
+	VCLMB:143
+})
+
+db.climbTables.save({
+	Weight:26000, 
+	VFRI_5:137, 
+	VFRI_10:128, 
+	VFRI15:125, 
+	VCLMB:148
+})
+
+db.climbTables.save({
+	Weight:28000, 
+	VFRI_5:142, 
+	VFRI_10:134,
+	VFRI15:130, 
+	VCLMB:154
+})
+
+db.climbTables.save({
+	Weight:29000, 
+	VFRI_5:146, 
+	VFRI_10:137, 
+	VFRI15:133, 
+	VCLMB:158
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 0,
+	temperature: "Below 20",
+	vr: 102,
+	v2: 116
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 2000,
+	temperature: "Below 20",
+	vr: 102,
+	v2: 115
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 4000,
+	temperature: "Below 20",
+	vr: 102,
+	v2: 114
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 6000,
+	temperature: "Below 20",
+	vr: 102,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 8000,
+	temperature: "Below 20",
+	vr: 102,
+	v2: 112
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 10000,
+	temperature: "Below 20",
+	vr: 103,
+	v2: 111
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 0,
+	temperature: "Below 20",
+	vr: 105,
+	v2: 115
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 2000,
+	temperature: "Below 20",
+	vr: 106,
+	v2: 114
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 4000,
+	temperature: "Below 20",
+	vr: 107,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 6000,
+	temperature: "Below 20",
+	vr: 107,
+	v2: 112
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 8000,
+	temperature: "Below 20",
+	vr: 108,
+	v2: 112
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 10000,
+	temperature: "Below 20",
+	vr: 110,
+	v2: 111
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 0,
+	temperature: "Below 20",
+	vr: 112,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 2000,
+	temperature: "Below 20",
+	vr: 113,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 4000,
+	temperature: "Below 20",
+	vr: 113,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 6000,
+	temperature: "Below 20",
+	vr: 114,
+	v2: 118
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 8000,
+	temperature: "Below 20",
+	vr: 115,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 10000,
+	temperature: "Below 20",
+	vr: 116,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 0,
+	temperature: "Below 20",
+	vr: 118,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 2000,
+	temperature: "Below 20",
+	vr: 119,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 4000,
+	temperature: "Below 20",
+	vr: 120,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 6000,
+	temperature: "Below 20",
+	vr: 120,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 8000,
+	temperature: "Below 20",
+	vr: 121,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 10000,
+	temperature: "Below 20",
+	vr: 122,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 26000,
+	altitude: 0,
+	temperature: "Below 20",
+	vr: 124,
+	v2: 127
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 26000,
+	altitude: 2000,
+	temperature: "Below 20",
+	vr: 125,
+	v2: 127
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 26000,
+	altitude: 4000,
+	temperature: "Below 20",
+	vr: 126,
+	v2: 127
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 26000,
+	altitude: 6000,
+	temperature: "Below 20",
+	vr: 126,
+	v2: 127
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 26000,
+	altitude: 8000,
+	temperature: "Below 20",
+	vr: 127,
+	v2: 127
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 26000,
+	altitude: 10000,
+	temperature: "Below 20",
+	vr: 128,
+	v2: 127
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 28000,
+	altitude: 0,
+	temperature: "Below 20",
+	vr: 130,
+	v2: 132
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 28000,
+	altitude: 2000,
+	temperature: "Below 20",
+	vr: 131,
+	v2: 132
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 28000,
+	altitude: 4000,
+	temperature: "Below 20",
+	vr: 132,
+	v2: 132
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 28000,
+	altitude: 6000,
+	temperature: "Below 20",
+	vr: 132,
+	v2: 132
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 28000,
+	altitude: 8000,
+	temperature: "Below 20",
+	vr: 133,
+	v2: 132
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 28000,
+	altitude: 10000,
+	temperature: "Below 20",
+	vr: 134,
+	v2: 132
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 29000,
+	altitude: 0,
+	temperature: "Below 20",
+	vr: 133,
+	v2: 135
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 29000,
+	altitude: 2000,
+	temperature: "Below 20",
+	vr: 134,
+	v2: 135
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 29000,
+	altitude: 4000,
+	temperature: "Below 20",
+	vr: 135,
+	v2: 135
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 29000,
+	altitude: 6000,
+	temperature: "Below 20",
+	vr: 136,
+	v2: 135
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 29000,
+	altitude: 8000,
+	temperature: "Below 20",
+	vr: 137,
+	v2: 135
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 29000,
+	altitude: 10000,
+	temperature: "Below 20",
+	vr: 138,
+	v2: 135
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 102,
+	v2: 114
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 102,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 102,
+	v2: 112
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 103,
+	v2: 111
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 103,
+	v2: 110
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 18000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 105,
+	v2: 109
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 107,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 108,
+	v2: 112
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 108,
+	v2: 112
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 110,
+	v2: 111
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 110,
+	v2: 111
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 20000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 112,
+	v2: 111
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 113,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 114,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 115,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 116,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 117,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 22000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 118,
+	v2: 117
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 120,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 120,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 121,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 122,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 123,
+	v2: 122
+})
+
+db.flapsTables.save({
+	flaps: "5",
+	weight: 24000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 124,
+	v2: 122
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 26000,
+altitude: 2000,
+temperature: "Above 20",
+vr:126,
+v2:127
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 26000,
+altitude: 4000,
+temperature: "Above 20",
+vr:127,
+v2:127
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 26000,
+altitude: 6000,
+temperature: "Above 20",
+vr:128,
+v2:127
+})
+
+db.flapsTables.save({{
+flaps: "5",
+weight: 26000,
+altitude: 8000,
+temperature: "Above 20",
+vr:129,
+v2:127
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 26000,
+altitude: 10000,
+temperature: "Above 20",
+vr:130,
+v2:127
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 28000,
+altitude: 2000,
+temperature: "Above 20",
+vr:132,
+v2:132
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 28000,
+altitude: 4000,
+temperature: "Above 20",
+vr:133,
+v2:132
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 28000,
+altitude: 6000,
+temperature: "Above 20",
+vr:134,
+v2:132
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 28000,
+altitude: 8000,
+temperature: "Above 20",
+vr:135,
+v2:132
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 28000,
+altitude: 10000,
+temperature: "Above 20",
+vr:136,
+v2:132
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 29000,
+altitude: 2000,
+temperature: "Above 20",
+vr:136,
+v2:135
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 29000,
+altitude: 4000,
+temperature: "Above 20",
+vr:137,
+v2:135
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 29000,
+altitude: 6000,
+temperature: "Above 20",
+vr:138,
+v2:135
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 29000,
+altitude: 8000,
+temperature: "Above 20",
+vr:138,
+v2:135
+})
+
+db.flapsTables.save({
+flaps: "5",
+weight: 29000,
+altitude: 10000,
+temperature: "Above 20",
+vr:140,
+v2:135
+})
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 18000,
+	altitude: 0,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 111
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 18000,
+	altitude: 20000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 110
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 18000,
+	altitude: 4000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 110
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 18000,
+	altitude: 6000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 109
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 18000,
+	altitude: 8000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 108
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 18000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 107
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 18000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 107
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 20000,
+	altitude: 0,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 110
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 20000,
+	altitude: 20000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 110
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 20000,
+	altitude: 4000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 109
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 20000,
+	altitude: 6000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 109
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 20000,
+	altitude: 8000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 108
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 20000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 107
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 20000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 100,
+	v2: 106
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 22000,
+	altitude: 0,
+	temperature: "Below 20", 
+	vr: 103,
+	v2: 109
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 22000,
+	altitude: 20000,
+	temperature: "Below 20", 
+	vr: 105,
+	v2: 109
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 22000,
+	altitude: 4000,
+	temperature: "Below 20", 
+	vr: 105,
+	v2: 108
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 22000,
+	altitude: 6000,
+	temperature: "Below 20", 
+	vr: 105,
+	v2: 108
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 22000,
+	altitude: 8000,
+	temperature: "Below 20", 
+	vr: 106,
+	v2: 108
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 22000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 108,
+	v2: 108
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 24000,
+	altitude: 0,
+	temperature: "Below 20", 
+	vr: 109,
+	v2: 113
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 24000,
+	altitude: 20000,
+	temperature: "Below 20", 
+	vr: 110,
+	v2: 113
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 24000,
+	altitude: 4000,
+	temperature: "Below 20", 
+	vr: 111,
+	v2: 113
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 24000,
+	altitude: 6000,
+	temperature: "Below 20", 
+	vr: 111,
+	v2: 113
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 24000,
+	altitude: 8000,
+	temperature: "Below 20", 
+	vr: 112,
+	v2: 113
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 24000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 113,
+	v2: 113
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 26000,
+	altitude: 0,
+	temperature: "Below 20", 
+	vr: 115,
+	v2: 118
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 26000,
+	altitude: 20000,
+	temperature: "Below 20", 
+	vr: 116,
+	v2: 118
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 26000,
+	altitude: 4000,
+	temperature: "Below 20", 
+	vr: 116,
+	v2: 118
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 26000,
+	altitude: 6000,
+	temperature: "Below 20", 
+	vr: 117,
+	v2: 118
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 26000,
+	altitude: 8000,
+	temperature: "Below 20", 
+	vr: 118,
+	v2: 118
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 26000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 119,
+	v2: 118
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 28000,
+	altitude: 0,
+	temperature: "Below 20", 
+	vr: 120,
+	v2: 122
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 28000,
+	altitude: 20000,
+	temperature: "Below 20", 
+	vr: 121,
+	v2: 122
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 28000,
+	altitude: 4000,
+	temperature: "Below 20", 
+	vr: 122,
+	v2: 122
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 28000,
+	altitude: 6000,
+	temperature: "Below 20", 
+	vr: 122,
+	v2: 122
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 28000,
+	altitude: 8000,
+	temperature: "Below 20", 
+	vr: 123,
+	v2: 122
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 28000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 124,
+	v2: 122
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 29000,
+	altitude: 0,
+	temperature: "Below 20", 
+	vr: 124,
+	v2: 125
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 29000,
+	altitude: 20000,
+	temperature: "Below 20", 
+	vr: 125,
+	v2: 125
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 29000,
+	altitude: 4000,
+	temperature: "Below 20", 
+	vr: 125,
+	v2: 125
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 29000,
+	altitude: 6000,
+	temperature: "Below 20", 
+	vr: 126,
+	v2: 125
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 29000,
+	altitude: 8000,
+	temperature: "Below 20", 
+	vr: 127,
+	v2: 125
+});
+
+db.flapsTables.save({
+	flaps: "10",
+	weight: 29000,
+	altitude: 10000,
+	temperature: "Below 20", 
+	vr: 128,
+	v2: 125
+});
+
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 18000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 100,
+	v2: 109
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 18000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 100,
+	v2: 109
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 18000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 102,
+	v2: 112
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 18000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 100,
+	v2: 107
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 18000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 106
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 18000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 105
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 20000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 100,
+	v2: 108
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 20000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 100,
+	v2: 108
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 20000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 100,
+	v2: 107
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 20000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 100,
+	v2: 106
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 20000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 105
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 20000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 105
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 22000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 104,
+	v2: 108
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 22000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 106,
+	v2: 108
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 22000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 106,
+	v2: 107
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 22000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 106,
+	v2: 108
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 22000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 108
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 22000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 108
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 26000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 116,
+	v2: 118
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 26000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 117,
+	v2: 118
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 26000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 117,
+	v2: 118
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 26000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 118,
+	v2: 118
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 26000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 118
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 26000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 118
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 28000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 121,
+	v2: 122
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 28000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 122,
+	v2: 122
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 28000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 123,
+	v2: 122
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 28000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 123,
+	v2: 122
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 28000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 122
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 28000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 122
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 29000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 125,
+	v2: 125
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 29000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 125,
+	v2: 125
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 29000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 126,
+	v2: 125
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 29000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 127,
+	v2: 125
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 29000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 125
+})
+db.flapsTables.save ({
+	flaps: "10",
+	weight: 29000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 0,
+	v2: 125
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 18000,
+altitude: 0,
+temperature: "below 20",
+vr: 98,
+v2: 106,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 18000,
+altitude: 2000,
+temperature: "below 20",
+vr: 98,
+v2: 106,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 18000,
+altitude: 4000,
+temperature: "below 20",
+vr: 987,
+v2: 105,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 18000,
+altitude: 6000,
+temperature: "below 20",
+vr: 98,
+v2: 104,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 18000,
+altitude: 8000,
+temperature: "below 20",
+vr: 98,
+v2: 103,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 18000,
+altitude: 10000,
+temperature: "below 20",
+vr: 98,
+v2: 102,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 20000,
+altitude: 0,
+temperature: "below 20",
+vr: 98,
+v2: 105,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 20000,
+altitude: 2000,
+temperature: "below 20",
+vr: 98,
+v2: 105,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 20000,
+altitude: 4000,
+temperature: "below 20",
+vr: 98,
+v2: 104,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 20000,
+altitude: 6000,
+temperature: "below 20",
+vr: 98,
+v2: 103,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 20000,
+altitude: 8000,
+temperature: "below 20",
+vr: 98,
+v2: 102,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 20000,
+altitude: 10000,
+temperature: "below 20",
+vr: 98,
+v2: 102,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 22000,
+altitude: 0,
+temperature: "below 20",
+vr: 100,
+v2: 104,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 22000,
+altitude: 2000,
+temperature: "below 20",
+vr: 101,
+v2: 104,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 22000,
+altitude: 4000,
+temperature: "below 20",
+vr: 101,
+v2: 104,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 22000,
+altitude: 6000,
+temperature: "below 20",
+vr: 102,
+v2: 104,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 22000,
+altitude: 8000,
+temperature: "below 20",
+vr: 103,
+v2: 104,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 22000,
+altitude: 10000,
+temperature: "below 20",
+vr: 104,
+v2: 104,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 24000,
+altitude: 0,
+temperature: "below 20",
+vr: 106,
+v2: 109,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 24000,
+altitude: 2000,
+temperature: "below 20",
+vr: 106,
+v2: 109,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 24000,
+altitude: 4000,
+temperature: "below 20",
+vr: 107,
+v2: 109,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 24000,
+altitude: 6000,
+temperature: "below 20",
+vr: 108,
+v2: 109,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 24000,
+altitude: 8000,
+temperature: "below 20",
+vr: 108,
+v2: 109,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 24000,
+altitude: 10000,
+temperature: "below 20",
+vr: 109,
+v2: 109,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 26000,
+altitude: 0,
+temperature: "below 20",
+vr: 111,
+v2: 113,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 26000,
+altitude: 2000,
+temperature: "below 20",
+vr: 112,
+v2: 113,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 26000,
+altitude: 4000,
+temperature: "below 20",
+vr: 112,
+v2: 113,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 26000,
+altitude: 6000,
+temperature: "below 20",
+vr: 113,
+v2: 113,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 26000,
+altitude: 8000,
+temperature: "below 20",
+vr: 114,
+v2: 113,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 26000,
+altitude: 10000,
+temperature: "below 20",
+vr: 114,
+v2: 113,
+})
+
+
+db.flapsTables.save({
+flaps: "15",
+weight: 28000,
+altitude: 0,
+temperature: "below 20",
+vr: 116,
+v2: 118,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 28000,
+altitude: 2000,
+temperature: "below 20",
+vr: 117,
+v2: 118,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 28000,
+altitude: 4000,
+temperature: "below 20",
+vr: 117,
+v2: 118,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 28000,
+altitude: 6000,
+temperature: "below 20",
+vr: 118,
+v2: 118,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 28000,
+altitude: 8000,
+temperature: "below 20",
+vr: 118,
+v2: 118,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 28000,
+altitude: 10000,
+temperature: "below 20",
+vr: 119,
+v2: 118,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 29000,
+altitude: 0,
+temperature: "below 20",
+vr: 119,
+v2: 120,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 29000,
+altitude: 2000,
+temperature: "below 20",
+vr: 120,
+v2: 120,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 29000,
+altitude: 4000,
+temperature: "below 20",
+vr: 120,
+v2: 120,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 29000,
+altitude: 6000,
+temperature: "below 20",
+vr: 121,
+v2: 120,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 29000,
+altitude: 8000,
+temperature: "below 20",
+vr: 122,
+v2: 120,
+})
+
+db.flapsTables.save({
+flaps: "15",
+weight: 29000,
+altitude: 10000,
+temperature: "below 20",
+vr: 122,
+v2: 120,
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 18000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 105
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 18000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 104
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 18000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 103
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 18000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 18000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 18000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 18000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 18000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 20000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 103
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 20000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 103
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 20000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 20000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 98,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 20000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 99,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 20000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 99,
+	v2: 102
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 22000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 101,
+	v2: 104
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 22000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 102,
+	v2: 104
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 22000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 102,
+	v2: 104
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 22000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 103,
+	v2: 104
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 22000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 104,
+	v2: 104
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 22000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 104,
+	v2: 104
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 22000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 104,
+	v2: 104
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 24000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 107,
+	v2: 109
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 24000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 108,
+	v2: 109
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 24000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 108,
+	v2: 109
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 24000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 109,
+	v2: 109
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 24000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 110,
+	v2: 109
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 24000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 110,
+	v2: 109
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 26000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 112,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 26000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 113,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 26000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 114,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 26000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 114,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 26000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 115,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 26000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 115,
+	v2: 113
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 28000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 117,
+	v2: 118
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 28000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 118,
+	v2: 118
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 28000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 119,
+	v2: 118
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 28000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 119,
+	v2: 118
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 28000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 120,
+	v2: 118
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 28000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 120,
+	v2: 118
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 29000,
+	altitude: 0,
+	temperature: "Above 20",
+	vr: 120,
+	v2: 120
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 29000,
+	altitude: 2000,
+	temperature: "Above 20",
+	vr: 121,
+	v2: 120
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 29000,
+	altitude: 4000,
+	temperature: "Above 20",
+	vr: 121,
+	v2: 120
+})
+
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 29000,
+	altitude: 6000,
+	temperature: "Above 20",
+	vr: 122,
+	v2: 120
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 29000,
+	altitude: 8000,
+	temperature: "Above 20",
+	vr: 123,
+	v2: 120
+})
+
+db.flapsTables.save({
+	flaps: "15",
+	weight: 29000,
+	altitude: 10000,
+	temperature: "Above 20",
+	vr: 123,
+	v2: 120
+})
+
+db.landingTables.save({
+	Weight:18000, 
+	V_app:115, 
+	V_ref:0, 
+	V_ga:109
+})
+
+db.landingTables.save({
+	Weight:20000, 
+	V_app:120, 
+	V_ref:0, 
+	V_ga:110
+})
+
+db.landingTables.save({
+	Weight:22000, 
+	V_app:126, 
+	V_ref:0, 
+	V_ga:115
+})
+
+db.landingTables.save({
+	Weight:24000, 
+	V_app:131, 
+	V_ref:0, 
+	V_ga:120
+})
+
+db.landingTables.save({
+	Weight:26000, 
+	V_app:137, 
+	V_ref:0, 
+	V_ga:125
+})
+
+db.landingTables.save({
+	Weight:28000, 
+	V_app:142, 
+	V_ref:0, 
+	V_ga:130
+})
+
+db.landingTables.save({
+	Weight:29000, 
+	V_app:146, 
+	V_ref:0, 
+	V_ga:134
+})
+
+db.landingTables.save({
+	Weight:18000, 
+	V_app:109, 
+	V_ref:108, 
+	V_ga:108
+})
+
+db.landingTables.save({
+	Weight:20000, 
+	V_app:112, 
+	V_ref:112, 
+	V_ga:108
+})
+
+db.landingTables.save({
+	Weight:22000,
+	V_app:117, 
+	V_ref:117, 
+	V_ga:108
+})
+
+db.landingTables.save({
+	Weight:24000, 
+	V_app:122, 
+	V_ref:122,
+	V_ga:112
+})
+
+db.landingTables.save({
+	Weight:26000, 
+	V_app:127, 
+	V_ref:127, 
+	V_ga:117
+})
+
+db.landingTables.save({
+	Weight:28000, 
+	V_app:132, 
+	V_ref:132, 
+	V_ga:122
+})
+
+db.landingTables.save({	
+	Weight:29000, 
+	V_app:136, 
+	V_ref:136, 
+	V_ga:125
+})
+
+db.landingTables.save({
+	Weight:18000, 
+	V_app:106, 
+	V_ref:105, 
+	V_ga:105
+})
+
+db.landingTables.save({
+	Weight:20000, 
+	V_app:106, 
+	V_ref:106, 
+	V_ga:105
+})
+
+db.landingTables.save({
+	Weight:22000, 
+	V_app:112, 
+	V_ref:112, 
+	V_ga:105
+})
+
+db.landingTables.save({
+	Weight:24000, 
+	V_app:117, 
+	V_ref:117, 
+	V_ga:107
+})
+
+db.landingTables.save({
+	Weight:26000, 
+	V_app:122, 
+	V_ref:121, 
+	V_ga:111
+})
+
+db.landingTables.save({
+	Weight:28000, 
+	V_app:126, 
+	V_ref:126, 
+	V_ga:116
+})
+
+db.landingTables.save({
+	Weight:29000, 
+	V_app:129, 
+	V_ref:129, 
+	V_ga:119
+})
+
+db.landingTables.save({
+	Weight:18000, 
+	V_app:0, 
+	V_ref:101, 
+	V_ga:0
+})
+	
+db.landingTables.save({	
+	Weight:20000, 
+	V_app:0, 
+	V_ref:102, 
+	V_ga:0
+})
+
+db.landingTables.save({	
+	Weight:22000, 
+	V_app:0, 
+	V_ref:107, 
+	V_ga:0
+})
+
+db.landingTables.save({
+	Weight:24000, 
+	V_app:0, 
+	V_ref:112, 
+	V_ga:0
+})
+
+db.landingTables.save({
+	Weight:26000, 
+	V_app:0, 
+	V_ref:116, 
+	V_ga:0
+})
+db.landingTables.save({
+	Weight:28000, 
+	V_app:0,
+	V_ref:120, 
+	V_ga:0
+})
+
+db.landingTables.save({
+	Weight:29000, 
+	V_app:0, 
+	V_ref:123, 
+	V_ga:0
+})
