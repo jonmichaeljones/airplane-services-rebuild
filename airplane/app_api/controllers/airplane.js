@@ -14,7 +14,7 @@ var sendJSONresponse = function(res, status, content)
 module.exports.airplaneReadOne = function(req, res) {
   console.log('Finding airplane details', req.params);
   if (req.params && req.params.Flapsid) {
-    LandingTable
+    ClimbTable
       .findById(req.params.Flapsid)
       .exec(function(err, location) {
         if (!location) {

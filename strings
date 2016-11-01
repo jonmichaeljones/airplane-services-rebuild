@@ -6,4 +6,6 @@ curl -i -H "Accept: application/json" https://airplane-services-jonmichaeljones.
 curl -i -H "Accept: application/json" https://airplane-services-jonmichaeljones.c9users.io/api/landing/580530b911a15a4ac3a23667
 
 
-mongodb://jonmichaeljones:mochas1@ds041586.mlab.com:41586/cloud-deployment
+mongodb://jonmichaeljones:mochas1@ds031597.mlab.com:31597/airplane-services
+
+ mongodump -h localhost:27017 -d airplane -o ~/workspace/tmp/mongodump
