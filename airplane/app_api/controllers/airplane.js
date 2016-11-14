@@ -11,7 +11,7 @@ var sendJSONresponse = function(res, status, content)
 }
 
 /* GET a location by the id */
-module.exports.airplaneReadOne = function(req, res) {
+module.exports.climbReadOne = function(req, res) {
   console.log('Finding airplane details', req.params);
   if (req.params && req.params.Flapsid) {
     ClimbTable

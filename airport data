@@ -1,0 +1,19 @@
+db.airportTables.save({
+	name: "Killeen-Fort Hood Regional Airport",
+	IATA: "GRK",
+	ICAO: "KGRK",
+	RunwayName: "15",
+	RunwayMag: 150,
+	RunwayTrue: 157,
+	RunwayLeng: 10000
+})
+
+db.airportTables.save({
+	name: "Killeen-Fort Hood Regional Airport",
+	IATA: "GRK",
+	ICAO: "KGRK",
+	RunwayName: "33",
+	RunwayMag: 330,
+	RunwayTrue: 337,
+	RunwayLeng: 10000
+})

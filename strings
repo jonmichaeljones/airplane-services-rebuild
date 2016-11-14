@@ -9,3 +9,7 @@ curl -i -H "Accept: application/json" https://airplane-services-jonmichaeljones.
 mongodb://jonmichaeljones:mochas1@ds031597.mlab.com:31597/airplane-services
 
  mongodump -h localhost:27017 -d airplane -o ~/workspace/tmp/mongodump
+ 
+ forecast.io
+ 
+ lighting218612

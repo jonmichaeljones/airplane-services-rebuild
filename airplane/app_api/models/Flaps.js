@@ -3,8 +3,8 @@ var mongoose = require('mongoose');
 
 var climbTable = new mongoose.Schema({
 	weight: Number,
-	vfri5: Number,
-	vfri10: Number,
+	vfri_5: Number,
+	vfri_10: Number,
 	vfri15: Number,
 	vclmb: Number
 });
@@ -27,8 +27,17 @@ var landingTable = mongoose.Schema({
 	vga: Number,
 });
 
-
+var airportTable = mongoose.Schema({
+	name: String,
+	IATA: String,
+	ICAO: String,
+	RunwayName: String,
+	RunwayMag: Number,
+	RunwayTrue: Number,
+	RunwayLeng: Number
+});
 
 mongoose.model('ClimbTable', climbTable, 'climbTables');
 mongoose.model('FlapsTable', flapsTable, 'flapsTables');
 mongoose.model('LandingTable', landingTable, 'landingTables');
+mongoose.model('AirportTable', airportTable, 'aiportTables');

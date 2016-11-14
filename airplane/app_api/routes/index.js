@@ -3,8 +3,8 @@ var router = express.Router();
 var ctrlLocations = require('../controllers/airplane');
 
 
-router.get('/Flaps', ctrlLocations.airplaneReadOne);
-router.get('/Flaps/:Flapsid', ctrlLocations.airplaneReadOne);
+router.get('/climb', ctrlLocations.climbReadOne);
+router.get('/climb/:climbid', ctrlLocations.climbReadOne);
 
 router.get('/flap', ctrlLocations.flapsReadOne);
 router.get('/flap/:flapsid', ctrlLocations.flapsReadOne);
